@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Index Page Heading */
+h2{
+    width: 460px;
+    margin: 40px;
+    text-align: center;
+    font-size: 30px;
+}
+
+/* Index Page Features Block */
+.home{
+
+    border:1px solid black;
+    background-color: rgb(247, 163, 133);
+    width: 430px;
+    height: 90px;
+    margin: 40px;
+    padding: 20px;
+}
+
+li{
+    float: left;
+    text-decoration: none;
+    width: 100px;
+    height: 40px;
+    margin:20px;
+    font-size: 30px;
+    border: 1px solid black;
+    list-style: none;
+    background-color: thistle;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.home li a{
+    color: black;
+    text-decoration: none;
+}
+
+.main{
+    margin-left: 50px; 
+    margin-top: 50px;
+}
+
+/* Fieldset of Each Page */
+.outerBlock{
+    width: 300px;
+    height: 400px;
+    border: 2px solid black;
+}
+
+/*Legend of Each Page */
+.appCaption{
+    font-size: 30px;
+    background-color:coral;
+    color: white;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    margin-bottom: 10px;   
+}
+
+.labelField{
+    font-size: 20px;
+    padding-left: 30px;
+}
+
+/* Input Areas */
+
+.inputField{
+    border: 2px solid black;
+    height: 20px;
+    width: 150px;
+    margin-left: 30px;
+    margin-top: 8px;
+    margin-bottom: 5px;
+}
+
+table{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    background-color: blanchedalmond;
+    font-size: 18px;
+    width: 550px;
+    text-align: center;
+}
